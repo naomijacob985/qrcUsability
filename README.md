@@ -1,2 +1,2 @@
 # qrcUsability
-my usability tests for eng 249
+This project is for the testing of the QRC. 
